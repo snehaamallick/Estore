@@ -1,0 +1,6 @@
+{
+  "facebookClientId": "",
+  "facebookClientSecret": "",
+  "stripeKey": "",
+  "openExchangeRatesKey": ""
+}
